@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76b490b4-a759-474c-b2ea-2dd9b108b73f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/tronhage/DateCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/tronhage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/tronhage/WeekIconApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="76b490b4-a759-474c-b2ea-2dd9b108b73f" name="Changes" comment="initial commit, purpose of program is to display icon with current week in system tray in windows" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,11 +54,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727774794556</updated>
-      <workItem from="1727774795630" duration="5805000" />
+      <workItem from="1727774795630" duration="6755000" />
     </task>
+    <task id="LOCAL−00001" summary="initial commit, purpose of program is to display icon with current week in system tray in windows">
+      <option name="closed" value="true" />
+      <created>1727859795533</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1727859795533</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit, purpose of program is to display icon with current week in system tray in windows" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit, purpose of program is to display icon with current week in system tray in windows" />
   </component>
 </project>
